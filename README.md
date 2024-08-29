@@ -1,7 +1,10 @@
 # 💫About Me :
 Hi, I'm Hoai Nam.
+
 🏫I'm currently studying front-end web development and will soon study back-end.
+
 ⛳I plan to become a DevOps engineer in the future.
+
 ✉️  You can contact me at leconghoainam04@gmail.com
 
 
